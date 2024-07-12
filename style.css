@@ -1,0 +1,157 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+DK+Loopet:wght@100..400&display=swap');
+
+@font-face {
+  font-family: 'chocolate';
+  src: url(chocolate_5/Chocolate.ttf) format(truetype);
+}
+
+h1#kj{
+  font-family: 'chocolate';
+}
+
+ p {
+  font-family: "Playwrite DK Loopet";
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1, h2{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+*{
+margin: 0px;
+  padding: 0px;
+}
+
+ main{
+  
+  min-width: 280px;
+  max-width: 800px;
+  height: 3867px;
+  position: relative;
+  top: -22px;
+  padding: 80px 80px 80px 80px;
+  border-radius: 3px 3px 3px 3px;
+  max-width: 1000px;
+  min-height: 200px;
+  
+}
+
+p{
+  text-align: justify;
+  text-indent: 10px;
+  line-height: 1.5em;
+
+} 
+
+nav{
+  background-color: aquamarine ;
+  border-radius: 10px;
+  padding: 10px;
+ position: relative;
+ bottom: -29px;
+ box-shadow: 10px 10px 10px 1px rgba(0, 0, 0, 0.181);
+}
+
+nav > ul{
+  list-style-position: inside;
+  columns:2;
+  list-style-type: '\2611\00A0';
+}
+
+img{
+ 
+}
+
+h1, h2{
+  text-indent: 8px;
+  box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.132);
+}
+
+h2{
+  color: royalblue;
+  font-style: normal;
+  font-weight: 900;
+  box-shadow: 10px 5px 4px 1px rgba(0, 0, 0, 0.299);
+  border-radius: 3px, 3px, 3px, 1px;
+}
+
+nav.tz{
+  text-decoration: none;
+  position: relative;
+  top: -23px;
+    padding: 7px;
+    background-color: blue;
+    border-radius: 0px 0px 0px 0px;
+    text-align: center;
+    min-width: 400px;
+  max-height: 800px;
+}
+ul.tz{
+  text-decoration: none;
+  display: inline-block;
+  columns:4;
+  list-style-type: '\2B50';
+  position: relative;
+  bottom: -8px;
+  min-width: 400px;
+  max-height: 800px;
+  color: white;
+  font-size: 1.5em;
+}
+
+p#b{
+  text-align: center;
+}
+
+header{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    padding: 50px;
+    
+}
+
+body{
+background-image: linear-gradient(to left,rgb(255, 255, 255), rgb(220, 219, 219));
+}
+
+nav  h2{
+  background-color:rgb(63, 63, 240) ;
+  top: -25px;
+  position: relative;
+  padding: 5px;
+  margin: -10px -10px 0px -10px;
+  border-radius: 10px 10px 0px 0px;
+  color: white;
+  text-align: center;
+  
+}
+
+main > article{
+  position: relative;
+  left: -70px;
+  top: -72px;
+}
+
+article{
+
+}
+
+div.valor{
+  background-color: aquamarine;
+ 
+}
+
+div.valor > iframe{
+ 
+}
+
+a.r{
+  color: white;
+  min-width: 400px;
+  max-height: 800px;
+}
